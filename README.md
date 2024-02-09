@@ -10,6 +10,6 @@ The original code contained several non-semantic and redundant code that require
 
 Thanks to the Xpert Learning assistant and ChatGPT for assistance with the challenge project!
 
-## Deployed Application
+## Link
 
-Access the deployed application [here](https:)
+Access the deployed application: http://127.0.0.1:5500/code-refactor/Develop/index.html
